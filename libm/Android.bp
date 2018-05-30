@@ -48,7 +48,6 @@ cc_library {
         "upstream-freebsd/lib/msun/src/e_log10.c",
         "upstream-freebsd/lib/msun/src/e_log10f.c",
         "upstream-freebsd/lib/msun/src/e_log2.c",
-        "upstream-freebsd/lib/msun/src/e_log2f.c",
         "upstream-freebsd/lib/msun/src/e_log.c",
         "upstream-freebsd/lib/msun/src/e_logf.c",
         "upstream-freebsd/lib/msun/src/e_pow.c",
